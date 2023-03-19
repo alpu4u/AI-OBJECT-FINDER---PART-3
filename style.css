@@ -1,0 +1,45 @@
+
+.heading
+{
+    font-size: 24px;
+    width: 99%;
+    margin: 0px;
+}
+
+#start, #number_of_objects, #status
+{
+    font-size: 19px;
+}
+
+canvas
+{
+border: 2px solid red;
+border-radius: 10px;
+margin-top: 129px;
+box-shadow:5px 5px 5px white;
+stroke: red;
+fill:red;
+}
+
+.copy_right_footer
+{
+   position: fixed; 
+   color: red;
+   bottom: 0;
+   width: 99%;
+   background-color: green;
+   line-height: 2;
+   text-align: center;
+}
+
+.textlabel{
+    font-style: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    color: black;
+}
+.tb{
+    overflow: hidden;
+    white-space: nowrap;
+    max-width: 400 px;
+}
